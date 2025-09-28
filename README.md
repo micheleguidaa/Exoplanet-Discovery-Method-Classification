@@ -46,4 +46,4 @@ This project classifies the discovery method of exoplanets using the Exoplanets 
 - `requirements.txt`: List of required Python packages
 
 ## Author ✨
-Michele Guida
+* [Michele Guida](https://github.com/micheleguidaa)
